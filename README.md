@@ -2,20 +2,20 @@
 FEMPDE is a software for solving partial differential equations using finite element method. The software comes with a user friendly GUI to facilitate processing and post-processing stages.
 The source code is available free uder the GPL license. 
 
-![FEMPDE Solver Software View](Images/Softwiew.png)
-![FEMPDE Solver Sample Grid](Images/SoftGrid.png)
+![FEMPDE Solver Software View](Images/SoftView.png)
+![FEMPDE Solver Sample Grid](Images/SoftMesh.png)
 
 
 # Capabilities
 A brief capabilities of the software is as follows:
 
--Automatic Grid Generation
--Adaptive Time step regulation
--Solves Poisson equation 
--Solves Time dependent Naiver-Stokes equations
--Plotting numerical resutls 
--Export Grid to  EPS file format
--Export Results to CSV, and TXT file formats
+* Automatic Grid Generation
+* Adaptive Time step regulation
+* Solves Poisson equation 
+* Solves Time dependent Naiver-Stokes equations
+* Plotting numerical resutls 
+* Export Grid to  EPS file format
+* Export Results to CSV, and TXT file formats
 
 
 # Requirements
