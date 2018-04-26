@@ -24,5 +24,6 @@ A brief capabilities of the software is as follows:
 -  [Janus Systems](http://www.janusys.com)
 -  [Math.NET Numerics](https://numerics.mathdotnet.com)
 -  [OxyPlot](http://www.oxyplot.org)
-#User Manual
+
+# User Manual
 You can find a detailed manual of the code [here](UserManual.pdf).
